@@ -92,7 +92,9 @@ li > a {
   width: 100%;
   margin: 0 auto;
 }
-
+.card {
+  margin-top: 60px;
+}
 .slider-container > .card {
   margin-top: 50px;
   display: inline-block;
