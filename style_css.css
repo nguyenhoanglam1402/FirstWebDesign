@@ -121,10 +121,28 @@ h5 {
   text-align: center;
 }
 
+.slider-container > h4 {
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: -30px;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
 .imgbox-partner {
   padding: 0px 20px;
 }
 
 .discription {
   text-align: center;
+}
+
+.carousel-control-prev {
+  margin-top: 61.7px;
+  height: 400px;
+}
+
+.carousel-control-next {
+  margin-top: 61.7px;
+  height: 400px;
 }
