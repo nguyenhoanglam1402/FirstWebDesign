@@ -104,6 +104,7 @@ footer {
 }
 
 footer > .footer-container {
+  display: inline-flex;
   padding: 20px 50px;
 }
 
@@ -112,8 +113,9 @@ h5 {
 }
 
 .element {
-  display: inline-block;
-  margin-left: 3%;
+  display: block;
+  -webkit-box-pack: start;
+  margin-left: 2%;
 }
 
 h5 > a {
@@ -129,10 +131,12 @@ h5 > a {
 }
 
 .imgbox-partner {
+  display: flex;
   padding: 0px 20px;
 }
 
 .discription {
+  display: block;
   text-align: center;
 }
 
