@@ -1,0 +1,192 @@
+li > a {
+  color: #000;
+  font-family: Trebuchet MS;
+  float: left;
+}
+#logo_image {
+  width: 70px;
+  height: 50px;
+}
+
+#searchBox {
+  border-radius: 30px;
+}
+
+.nav > .navbar-brand {
+  font-family: Harrington;
+  color: #000;
+  font-weight: bold;
+  pointer-events: none;
+}
+
+#seachButton {
+  border-radius: 30px;
+  margin-left: 10px;
+}
+
+#topContainer {
+  background-color: transparent;
+}
+
+#div__spacer {
+  -webkit-box-flex: 1;
+  flex: 1;
+}
+
+.navbar__link-separator {
+  border-right: 1px solid hsla(0, 0%, 81%, 0.5);
+  height: 0.8125rem;
+  margin-top: 14px;
+}
+
+#brandLogo {
+  font-size: 1.6rem;
+  font-weight: 500;
+  font-family: unset;
+  align-self: center;
+}
+
+#Logo {
+  margin-top: -5px;
+}
+
+.form-inline {
+  flex: 1;
+  width: 100%;
+}
+
+.navbar-brand {
+  text-decoration: none;
+  color: #000;
+  font-weight: 700;
+  font-size: 1.5rem;
+}
+
+.notification {
+  position: relative;
+  top: -10px;
+  right: 0;
+  font-size: 12px;
+  color: #fa6400;
+}
+
+.navbar {
+  background-color: #fff;
+}
+
+#navItem {
+  display: flex;
+  align-items: center;
+  clear: right;
+}
+
+.navbar-link {
+  margin-left: 20px;
+}
+
+.custom-container {
+  align-content: center;
+  max-width: 1224px;
+  padding-left: 12px;
+  padding-right: 12px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.custom-container > .card {
+  margin-top: 50px;
+  display: inline-block;
+}
+
+footer {
+  margin-top: 10px;
+  background-color: #f8f9fa;
+}
+
+footer > .footer-container {
+  padding: 20px 50px;
+}
+
+h5 {
+  text-align: center;
+}
+
+.element {
+  display: inline-block;
+  margin-left: 3%;
+}
+
+h5 > a {
+  color: #000;
+}
+
+.custom-container > h4 {
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: -30px;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.imgbox-partner {
+  padding: 0px 20px;
+}
+
+.discription {
+  text-align: center;
+}
+
+.carousel-control-prev {
+  margin-top: 61.7px;
+  height: 400px;
+}
+
+.carousel-control-next {
+  margin-top: 61.7px;
+  height: 400px;
+}
+
+h1 {
+  color: #fa6400;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: Arial Rounded MT, "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+  text-align: center;
+}
+
+#logoBrand {
+  width: 55px;
+  height: 45px;
+}
+
+.box-signup {
+  padding-top: 50px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 50px;
+}
+
+.btn-primary {
+  margin-top: 20px;
+  background-color: #fa6400;
+  border-color: #fa6400;
+  width: 68%;
+  border-radius: 50rem;
+}
+
+#exampleInputEmail1 {
+  border-radius: 50rem;
+  width: 68%;
+}
+
+#exampleInputPassword1 {
+  border-radius: 50rem;
+  width: 68%;
+}
+.form-signup {
+  margin-top: 50px;
+  margin-left: 200px;
+}
